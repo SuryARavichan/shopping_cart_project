@@ -9,10 +9,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "catalog": "^3.6.2",
     "next": "^14.0.0",
     "openai": "4.11.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "autoprefixer": "10.4.14",
