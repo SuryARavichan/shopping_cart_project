@@ -1,6 +1,7 @@
 import { parseUserMessage } from '../lib/parser';
 import { checkSafety } from '../lib/safety';
-import { searchByFeatures, getByModelBrand } from '../../lib/catalog';
+import { searchByFeatures, getByModelBrand } from '../lib/catalog';
+
 
 const OpenAI = require('openai');
 
